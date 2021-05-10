@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'SF Pro Display';
+    src: url('SFProDisplay.ttf');
+}
+
 * {
     margin: 0px;
     padding: 0px;
